@@ -25,6 +25,8 @@ Progressão: 3 níveis com dificuldade crescente e transição de cenas.
 Animações: Estados de Idle, Walk e Jump integrados via Animator.
 Sons: Trilha sonora e efeitos sonoros de coleta e pulo.
 
+SCREENSHOS DOS NÍVEIS DO JOGO:
+
 LEVEL 1 - https://github.com/user-attachments/assets/8825dd9e-be5e-4490-a8f8-722d90cb088d
 LEVEL 2 - https://github.com/user-attachments/assets/26e93493-8864-40d6-9d42-0c0bc28e87d2
 LEVEL 3 - https://github.com/user-attachments/assets/2a318e5e-f56b-4fc2-ba38-0c9d2ffbfe66
